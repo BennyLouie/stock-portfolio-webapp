@@ -1,6 +1,8 @@
 # stock-portfolio-webapp
 Parent Repo for the two submodule repos
 
+# Link to deployment: https://stock-port.herokuapp.com/
+
 ## Instructions
 
 1) `cd stock-portfolio-backend`
