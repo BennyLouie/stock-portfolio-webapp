@@ -1,0 +1,6 @@
+[submodule "stock-portfolio-backend"]
+	path = stock-portfolio-backend
+	url = https://github.com/BennyLouie/stock-portfolio-backend.git
+[submodule "stock-portfolio-frontend"]
+	path = stock-portfolio-frontend
+	url = https://github.com/BennyLouie/stock-portfolio-frontend.git
