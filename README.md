@@ -3,6 +3,7 @@ Parent Repo for the two submodule repos
 
 # Link to deployment: https://stock-port.herokuapp.com/
 # Link to demo: https://youtu.be/F97isHOIvKs
+# Link to blog: https://medium.com/@bennylouie/stock-portfolio-app-1b0e9e261fae
 
 ## Instructions
 
