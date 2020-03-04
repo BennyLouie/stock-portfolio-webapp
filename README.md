@@ -5,7 +5,10 @@ Parent Repo for the two submodule repos
 # Link to demo: https://youtu.be/j6Wr_pDs3Nk
 # Link to blog: https://medium.com/@bennylouie/stock-portfolio-app-1b0e9e261fae
 
-This is my web-based stock portfolio app I built using Rails for my backend and React for my frontend. The app pulls data from the IEX Cloud API. BCrypt and JWT tokens are used for security and authorizations. Redux is used to manage state in the front end and React-Router helps with navigation.
+This is my web-based stock portfolio app I built using Ruby on Rails for my backend and React for my frontend. 
+The app pulls data from the IEX Cloud API. 
+BCrypt and JWT tokens are used for security and authorizations. 
+Redux is used to manage state in the front end and React-Router helps with navigation.
 
 ## Instructions
 
